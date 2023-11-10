@@ -3,4 +3,4 @@ I'm writing a Medium blog where I post one LeetCode SQL solution every day. Chec
 
 👉 I was also planning to upload all of my blog links to GitHub, 
     but I was bored of opening and uploading them manually. 🤷‍♀️ 
-👉 So, I decided to automate the process using Python. 🐍
+ So, I decided to automate the process using Python. 🐍
